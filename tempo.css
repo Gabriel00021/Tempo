@@ -1,0 +1,59 @@
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@1,800&family=Tilt+Warp&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.vo{
+    background: linear-gradient(80deg, #50abe7 15%, #6DD5FA 100%);
+    width: 406px;
+    height: 112px;
+    margin-top: 200px;
+    margin-left: 400px;
+    border-radius: 20px;
+    display: flex;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.pai1{
+    padding: 15px;
+    width: 20%;
+    background-color: red;
+}
+
+.pai1 h5{
+    padding: 0;
+    margin: 0;
+    color: lightgray;
+
+}
+
+.pai1 p{
+     
+     font-size: 55px;
+      padding-right: 100px;
+      color: white;
+      margin-top: -15px;
+}
+
+.pai3{
+    background-color: brown;
+    margin-left: 38px;
+    margin-top: 8px;
+    color: lightgray;
+}
+
+.paragrafo2{
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: -10px;
+    color: white;
+}
+
+.paragrafo3{
+   background-color: chartreuse; 
+    margin-left: 20px;
+    font-size: 20px;
+    color: white;
+}
