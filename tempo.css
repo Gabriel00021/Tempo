@@ -39,9 +39,10 @@
 
 .pai3{
     background-color: brown;
-    margin-left: 38px;
+    margin-left: 70px;
     margin-top: 8px;
     color: lightgray;
+
 }
 
 .paragrafo2{
@@ -51,9 +52,39 @@
     color: white;
 }
 
-.paragrafo3{
+.paragrafo3,.paragrafo4{
    background-color: chartreuse; 
-    margin-left: 20px;
     font-size: 20px;
     color: white;
+    display:flex;
 }
+.velocidade{
+  display: flex;
+  margin-top: 20px;
+}
+
+.paragrafo4{
+ font-size: 13px;
+margin-top: 7px;
+}
+
+.pai4{
+ background-color: chocolate;
+ margin-left: 50px;
+ margin-top: 8px;
+ color: lightgray;
+ display: flex;
+flex-direction: column;
+}
+
+.uv{
+display: flex;
+
+}
+.numero{
+color: white;
+margin-left: 3px;
+font-size: 20px;
+margin-top: -2px;
+}
+
