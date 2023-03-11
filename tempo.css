@@ -40,16 +40,15 @@
 
 .pai3{
     background-color: brown;
-    margin-left: 70px;
     margin-top: 8px;
     color: lightgray;
 
 }
 
 .paragrafo2{
-    margin-left: 20px;
     font-size: 25px;
     margin-top: -10px;
+    text-align: center;
     color: white;
 }
 
@@ -62,6 +61,7 @@
 .velocidade{
   display: flex;
   margin-top: 20px;
+  align-items: center;
 }
 
 .paragrafo4{
@@ -71,7 +71,6 @@ margin-top: 7px;
 
 .pai4{
  background-color: chocolate;
- margin-left: 50px;
  margin-top: 8px;
  color: lightgray;
  display: flex;
@@ -98,4 +97,9 @@ font-size: 13px;
     color: white;
     font-size: 17px;
     margin-left: 10px;
+}
+
+ img{
+   height: auto;
+   width: 90px;
 }
