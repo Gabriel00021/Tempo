@@ -13,12 +13,14 @@
     margin-left: 400px;
     border-radius: 20px;
     display: flex;
+    justify-content: center;
+    gap: 20px;
     font-family: 'Noto Sans', sans-serif;
 }
 
 .pai1{
-    padding: 15px;
-    width: 20%;
+   margin-top: 15px;
+    /* width: 20%; */
     background-color: red;
 }
 
@@ -32,7 +34,6 @@
 .pai1 p{
      
      font-size: 55px;
-      padding-right: 100px;
       color: white;
       margin-top: -15px;
 }
@@ -88,3 +89,13 @@ font-size: 20px;
 margin-top: -2px;
 }
 
+.umidade{
+background-color: teal;
+font-size: 13px;
+}
+
+.paragrafo5{
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+}
