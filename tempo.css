@@ -7,27 +7,27 @@
 }
 .vo{
     background: linear-gradient(80deg, #50abe7 15%, #6DD5FA 100%);
-    width: 406px;
-    height: 112px;
+    width: 344px;
+    height: 116px;
     margin-top: 200px;
     margin-left: 400px;
     border-radius: 20px;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 12px;
     font-family: 'Noto Sans', sans-serif;
 }
 
 .pai1{
    margin-top: 15px;
     /* width: 20%; */
-    background-color: red;
+    /* background-color: red; */
 }
 
 .pai1 h5{
     padding: 0;
     margin: 0;
-    color: lightgray;
+    color:#D6D6D6
 
 }
 
@@ -39,9 +39,9 @@
 }
 
 .pai3{
-    background-color: brown;
+    /* background-color: brown; */
     margin-top: 8px;
-    color: lightgray;
+    color:#D6D6D6;
 
 }
 
@@ -53,7 +53,7 @@
 }
 
 .paragrafo3,.paragrafo4{
-   background-color: chartreuse; 
+   /* background-color: chartreuse;  */
     font-size: 20px;
     color: white;
     display:flex;
@@ -70,9 +70,9 @@ margin-top: 7px;
 }
 
 .pai4{
- background-color: chocolate;
+ /* background-color: chocolate; */
  margin-top: 8px;
- color: lightgray;
+ color: #D6D6D6;
  display: flex;
 flex-direction: column;
 }
@@ -89,7 +89,7 @@ margin-top: -2px;
 }
 
 .umidade{
-background-color: teal;
+/* background-color: teal; */
 font-size: 13px;
 }
 
@@ -102,4 +102,5 @@ font-size: 13px;
  img{
    height: auto;
    width: 90px;
+   margin-top: 10px;
 }
